@@ -3,9 +3,7 @@ import AnimatedText from '../components/animated/AnimatedText'
 
 const About = () => {
   const headingContent = (
-    <h2 className='text-white text-xl font-bold'>
-      Semyon Pinhasov - Software Developer
-    </h2>
+    <h2 className=' text-xl font-bold'>Semyon Pinhasov - Software Developer</h2>
   )
   const headingParagraph = (
     <p className='header py-2 my-4'>

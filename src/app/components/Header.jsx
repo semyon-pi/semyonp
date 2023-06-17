@@ -3,9 +3,7 @@ import AnimatedText from './animated/AnimatedText'
 
 const Header = () => {
   const headingContent = (
-    <h2 className='text-white text-xl font-bold'>
-      Semyon Pinhasov - Software Developer
-    </h2>
+    <h2 className='text-xl font-bold'>Semyon Pinhasov - Software Developer</h2>
   )
   const headingParagraph = (
     <p className='header py-2 my-4 text-xl'>
@@ -16,7 +14,7 @@ const Header = () => {
     </p>
   )
   return (
-    <section className='sm:my-24 my-14  h-screen'>
+    <section className='sm:my-24 my-14 '>
       <div className='md:px-24 px-8 h-96 flex items-center'>
         <div>
           <AnimatedText heading={headingContent} fromRight={false} />
