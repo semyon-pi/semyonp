@@ -106,9 +106,9 @@ const Cards = () => {
                 With a passion for bridging the gap between creativity and
                 functionality, I bring your visions to life through meticulous
                 planning, strategic architecture, and precise coding. Whether
-                it's an e-commerce platform, a content management system, or a
-                custom web application, I have the skills and experience to turn
-                your dreams into reality, one line of code at a time.
+                it&apos;s an e-commerce platform, a content management system,
+                or a custom web application, I have the skills and experience to
+                turn your dreams into reality, one line of code at a time.
               </p>
             </motion.div>
           </motion.div>

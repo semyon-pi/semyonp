@@ -5,7 +5,7 @@ import AnimatedText from '../components/animated/AnimatedText'
 const Contact = () => {
   const headingContent = (
     <div class='w-full mx-auto'>
-      <h2 className='font-bold text-4xl pb-4'>Let's chat!</h2>
+      <h2 className='font-bold text-4xl pb-4'>Let&apos;s chat!</h2>
       <p>You can contact me through any of the following means.</p>
     </div>
   )

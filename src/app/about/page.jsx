@@ -3,14 +3,14 @@ import AnimatedText from '../components/animated/AnimatedText'
 
 const About = () => {
   const headingContent = (
-    <h2 className=' text-xl font-bold'>Semyon Pinhasov - Software Developer</h2>
+    <h2 className='text-xl font-bold'>Semyon Pinhasov - Software Developer</h2>
   )
   const headingParagraph = (
     <p className='header py-2 my-4'>
       Welcome to my world of web development and creativity!
       <br /> <br />
-      I'm thrilled to introduce myself and share a glimpse into my passion for
-      crafting digital experiences. My name is Semyon, and I embark on an
+      I&apos;m thrilled to introduce myself and share a glimpse into my passion
+      for crafting digital experiences. My name is Semyon, and I embark on an
       exciting journey as a web developer, where I bring together my love for
       technology, exploration, and connecting with diverse individuals from all
       walks of life.
@@ -28,12 +28,12 @@ const About = () => {
       an opportunity to learn, grow, and connect with people who challenge my
       perspectives and enrich my understanding of the world.
       <br />
-      <br /> As I explore new destinations, I'm inevitably drawn to the vibrant
-      tapestry of museums, especially those dedicated to science and art. These
-      places serve as endless sources of inspiration, fueling my creativity and
-      pushing me to think beyond the confines of convention. Whether it's a
-      thought-provoking exhibit or an awe-inspiring piece of artwork, I find
-      solace and motivation in these cultural hubs.
+      <br /> As I explore new destinations, I&apos;m inevitably drawn to the
+      vibrant tapestry of museums, especially those dedicated to science and
+      art. These places serve as endless sources of inspiration, fueling my
+      creativity and pushing me to think beyond the confines of convention.
+      Whether it&apos;s a thought-provoking exhibit or an awe-inspiring piece of
+      artwork, I find solace and motivation in these cultural hubs.
       <br />
       <br /> But my true passion lies in web development. The ability to
       transform ideas into tangible, interactive experiences on the internet is
@@ -45,20 +45,20 @@ const About = () => {
       <br /> With a background in computer hardware and a lifelong fascination
       with software development, I possess a diverse skill set that allows me to
       tackle projects from different angles. I relish the challenge of finding
-      innovative solutions and continually pushing the boundaries of what's
+      innovative solutions and continually pushing the boundaries of what&apos;s
       possible.
       <br />
-      <br /> When you choose to collaborate with me, you're not just getting a
-      web developer; you're gaining a partner who is committed to bringing your
-      vision to life. I value open communication and believe that understanding
-      your goals and needs is crucial in creating an online presence that truly
-      represents you or your business.
+      <br /> When you choose to collaborate with me, you&apos;re not just
+      getting a web developer; you&apos;re gaining a partner who is committed to
+      bringing your vision to life. I value open communication and believe that
+      understanding your goals and needs is crucial in creating an online
+      presence that truly represents you or your business.
       <br />
-      <br /> So, let's embark on this exciting journey together. Whether you're
-      an individual with a unique story to share or a business looking to make a
-      lasting impact in the digital realm, I'm here to help you achieve your
-      goals. Let's harness the power of technology, culture, and creativity to
-      make something extraordinary.
+      <br /> So, let&apos;s embark on this exciting journey together. Whether
+      you&apos;re an individual with a unique story to share or a business
+      looking to make a lasting impact in the digital realm, I&apos;m here to
+      help you achieve your goals. Let&apos;s harness the power of technology,
+      culture, and creativity to make something extraordinary.
       <br />
       <br /> I look forward to getting to know you and working together to shape
       a digital experience that will leave a lasting impression.
