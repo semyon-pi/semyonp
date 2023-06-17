@@ -1,7 +1,6 @@
 import Nav from './components/Nav'
 import './globals.css'
 import { Hanken_Grotesk } from 'next/font/google'
-``
 
 const HankenGrotesk = Hanken_Grotesk({ subsets: ['latin'] })
 
