@@ -13,7 +13,7 @@ const Nav = () => {
 
   return (
     <div className='pt-8 my-8 flex justify-between text-black'>
-      <div>Semyon</div>
+      <h2 className='text-2xl font-bold'>SE</h2>
       <ul className='hidden md:flex'>
         <Link href='/' className={`pl-8 ${route == '/' ? 'font-bold' : ''}`}>
           Home

@@ -1,8 +1,9 @@
 import Nav from './components/Nav'
 import './globals.css'
-import { Inter } from 'next/font/google'
+import { Hanken_Grotesk } from 'next/font/google'
+import BackgroundParticles from './components/particles/BackgroundParticles';
 
-const inter = Inter({ subsets: ['latin'] })
+const HankenGrotesk = Hanken_Grotesk({ subsets: ['latin'] })
 
 export const metadata = {
   title: 'Create Next App',
@@ -12,9 +13,10 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className='flex justify-center'>
+      <body style={HankenGrotesk.style} className='flex justify-center bg-emerald-400'>
         <div className='w-5/6 md:w-2/3'>
           <div>
+            <BackgroundParticles />
             <Nav />
             {children}
           </div>
