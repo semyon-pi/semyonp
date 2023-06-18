@@ -2,7 +2,7 @@ const projects = [
     {
         githubLink: 'https://github.com/semyon-pi/RZNBarber',
         url: 'https://rznstudio.netlify.app/',
-        image: '../assets/rznstudio1.png',
+        image: '../assets/rzn.png',
         title: 'RZN Studio',
         paragraph: 'Website made by collaboration with ux/ui designer',
         tech: 'TailwindCSS',
