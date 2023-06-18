@@ -42,11 +42,9 @@ const Contact = () => {
   )
   return (
     <section className='md:my-24 my-14 text-black h-screen'>
-      <div class='flex flex-col  py-8 mx-auto max-w-7xl'>
-        <div class='flex flex-col w-full max-w-3xl mx-auto prose text-left prose-blue'>
-          <AnimatedText heading={headingContent} fromRight={false} />
-          <AnimatedText heading={headingLinks} fromRight={true} />
-        </div>
+      <div class=''>
+        <AnimatedText heading={headingContent} fromRight={false} />
+        <AnimatedText heading={headingLinks} fromRight={true} />
       </div>
     </section>
   )

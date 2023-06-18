@@ -39,8 +39,8 @@ const Project = ({ project, reverse }) => {
             <p className='mb-8 text-base leading-relaxed text-left text-gray-500'>
               {paragraph}
             </p>
-            <div className='mt-0 lg:mt-6 max-w-7xl sm:flex'>
-              <div className='mt-3 rounded-lg sm:mt-0'>
+            <div className='mt-0 lg:mt-6 max-w-7xl flex'>
+              <div className='mt-3 rounded-lg sm:mt-0 mr-2'>
                 <Link
                   href={githubLink}
                   className='btn btn-outline'
